@@ -1,0 +1,12 @@
+<resources>
+    <array name="array">
+
+        <item>Android</item>
+        <item>IOS</item>
+
+    </array>
+
+
+    <string name="app_name">Salesflo 3rd Round</string>
+
+</resources>
